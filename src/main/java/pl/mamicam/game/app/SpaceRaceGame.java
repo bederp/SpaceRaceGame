@@ -23,8 +23,5 @@ public class SpaceRaceGame extends Application {
 
     public static void main(String[] args) {
         launch(args);
-
-        LOGGER.log(System.Logger.Level.ERROR, "error test");
-        LOGGER.log(System.Logger.Level.INFO, "info test");
     }
 }
